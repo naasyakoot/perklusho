@@ -2,7 +2,7 @@
 $task = new Task();
 class Task {
 
-        public $des = 'ikjwdiiqwjdieiuj';
+        public $des = 'salam';
 
 }
 
