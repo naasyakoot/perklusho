@@ -8,6 +8,6 @@ class Task {
 
 
 
-var_dump( $task -> des );
+var_dump( $task -> des ); // not write like this var_dump( $task -> $des );
 
 
